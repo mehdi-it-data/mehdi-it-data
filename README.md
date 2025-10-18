@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Mehdi
 
-<!--
-**mehdi-it-data/mehdi-it-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 IT & Data Enthusiast based in Frankfurt, Germany  
+📊 Passionate about Data Science, Machine Learning, and AI  
+💻 Skilled in Python • pandas • scikit-learn • SQL • Git • Docker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Current Projects
+- 🧠 Customer Churn Prediction — Python, scikit-learn, ML pipeline  
+- 📈 Sales Forecasting — Time Series Analysis (Prophet, LSTM)  
+- 🗂️ Data Cleaning & Visualization Dashboards — Streamlit, Matplotlib
+
+---
+
+### 🌱 Learning & Growth
+- MLOps with Docker & CI/CD  
+- Advanced Machine Learning & Deep Learning  
+- Improving German language skills (B2 → C1)
+
+---
+
+### 📫 Contact
+- ✉️ Email: mehdi.it.de@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mehdi-avazaghaei/](https://linkedin.com/in/mehdi-avazaghaei/)  
+- 🌐 GitHub: [github.com/mehdi-it-data](https://github.com/mehdi-it-data)
+
+---
+
+> _"Turning data into decisions, one project at a time."_
